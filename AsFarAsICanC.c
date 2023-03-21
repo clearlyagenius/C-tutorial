@@ -2,5 +2,5 @@
 main()
 {
     printf("Computers, computers everywhere");
-    printf("\n as far as I can C");
+    printf("\n  as far as I can C");
 }
